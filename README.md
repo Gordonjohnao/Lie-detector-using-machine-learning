@@ -6,3 +6,5 @@ Python code for machine learning
 
 collect-speaker-heartrate-data.py:
 python script for collecting audio and heartrate data from phone's/laptop's microphone
+audioFeatureExtraction.py
+From python library pyAudioAnalysis for audio feature extraction
