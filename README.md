@@ -1,7 +1,7 @@
 # Lie-detector-using-machine-learning
 This is a lie detector application that uses a user voice to detect if it is a lie or not. the application is build in python and machine learning technology
 Project Struture
-python/LD:
+python/:
 Python code for machine learning
 
 collect-speaker-heartrate-data.py:
